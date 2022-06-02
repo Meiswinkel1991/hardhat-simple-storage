@@ -7,3 +7,6 @@ typechain
 #Hardhat files
 cache
 artifacts
+coverage
+gas-report.txt
+coverage.json
